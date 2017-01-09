@@ -1,0 +1,80 @@
+start is:2016-12-23 15:58:36
+[[275, 433, 84.705935, 39.452065, 2879.991245, 71.99999], [274, 434, 179.999863, 77.837807, 221.538663, 84.705906], [274, 436, 97.297287, 1107.690944, 46.006405, 80.898924]]
+D:/MICAPSData/ECMWF_HR/2T/999
+16122308
+D:\CodingWorkspace\2T_Forecast_Local_Site_Extraction/ElementsForecast/2T/EC_HR
+Time used: 18.609347s, 18609.346850ms
+*****************
+start is:2016-12-23 15:58:54
+[[193, 406, 79.861376, 29.23858, 15.187867, 11.425735], [193, 406, 59.921946, 10.568806, 43.227036, 9.894783], [193, 407, 142.397957, 21.073812, 16.900173, 10.040092]]
+D:/MICAPSData/T639_HR/2T/2
+16122308
+D:\CodingWorkspace\2T_Forecast_Local_Site_Extraction/ElementsForecast/2T/T639_HR
+Time used: 19.535674s, 19535.674455ms
+*****************
+start is:2016-12-23 15:59:14
+[[182, 456, 14.693881, 13.846157, 71.99999, 55.384615], [182, 457, 19.459457, 179.999863, 12.413795, 28.80001], [182, 458, 43.902437, 97.297287, 12.996393, 15.517245]]
+D:/MICAPSData/GERMAN_HR/TMP_2M/2
+16122308
+D:\CodingWorkspace\2T_Forecast_Local_Site_Extraction/ElementsForecast/2T/GERMAN_HR
+Time used: 7.250601s, 7250.600532ms
+*****************
+start is:2016-12-23 15:59:21
+[[275, 433, 84.705935, 39.452065, 2879.991245, 71.99999], [274, 434, 179.999863, 77.837807, 221.538663, 84.705906], [274, 436, 97.297287, 1107.690944, 46.006405, 80.898924]]
+D:/MICAPSData/ECMWF_HR/MX2T3/999
+16122308
+D:\CodingWorkspace\2T_Forecast_Local_Site_Extraction/ElementsForecast/2TMax3h/EC_HR
+Time used: 17.922099s, 17922.099134ms
+*****************
+start is:2016-12-23 15:59:39
+[[275, 433, 84.705935, 39.452065, 2879.991245, 71.99999], [274, 434, 179.999863, 77.837807, 221.538663, 84.705906], [274, 436, 97.297287, 1107.690944, 46.006405, 80.898924]]
+D:/MICAPSData/ECMWF_HR/MN2T3/999
+16122308
+D:\CodingWorkspace\2T_Forecast_Local_Site_Extraction/ElementsForecast/2TMin3h/EC_HR
+Time used: 19.779188s, 19779.187940ms
+*****************
+start is:2016-12-23 15:59:59
+16122308
+['D:\\CodingWorkspace\\2T_Forecast_Local_Site_Extraction/ElementsForecast/2T/EC_HR/2016122308.txt', 'D:\\CodingWorkspace\\2T_Forecast_Local_Site_Extraction/ElementsForecast/2T/T639_HR/2016122308.txt', 'D:\\CodingWorkspace\\2T_Forecast_Local_Site_Extraction/ElementsForecast/2T/GERMAN_HR/2016122308.txt', 'D:\\CodingWorkspace\\2T_Forecast_Local_Site_Extraction/ElementsForecast/2TMax3h/EC_HR/2016122308.txt', 'D:\\CodingWorkspace\\2T_Forecast_Local_Site_Extraction/ElementsForecast/2TMin3h/EC_HR/2016122308.txt']
+Time used: 1.521434s, 1521.434369ms
+*****************
+start is:2016-12-23 16:26:17
+[[275, 433, 84.705935, 39.452065, 2879.991245, 71.99999], [274, 434, 179.999863, 77.837807, 221.538663, 84.705906], [274, 436, 97.297287, 1107.690944, 46.006405, 80.898924]]
+D:/MICAPSData/ECMWF_HR/2T/999
+16122308
+D:\CodingWorkspace\2T_Forecast_Local_Site_Extraction/ElementsForecast/2T/EC_HR
+Time used: 18.199151s, 18199.151116ms
+*****************
+start is:2016-12-23 16:26:35
+[[193, 406, 79.861376, 29.23858, 15.187867, 11.425735], [193, 406, 59.921946, 10.568806, 43.227036, 9.894783], [193, 407, 142.397957, 21.073812, 16.900173, 10.040092]]
+D:/MICAPSData/T639_HR/2T/2
+16122308
+D:\CodingWorkspace\2T_Forecast_Local_Site_Extraction/ElementsForecast/2T/T639_HR
+Time used: 7.305088s, 7305.087803ms
+*****************
+start is:2016-12-23 16:26:42
+[[182, 456, 14.693881, 13.846157, 71.99999, 55.384615], [182, 457, 19.459457, 179.999863, 12.413795, 28.80001], [182, 458, 43.902437, 97.297287, 12.996393, 15.517245]]
+D:/MICAPSData/GERMAN_HR/TMP_2M/2
+16122308
+D:\CodingWorkspace\2T_Forecast_Local_Site_Extraction/ElementsForecast/2T/GERMAN_HR
+Time used: 2.907070s, 2907.069888ms
+*****************
+start is:2016-12-23 16:26:45
+[[275, 433, 84.705935, 39.452065, 2879.991245, 71.99999], [274, 434, 179.999863, 77.837807, 221.538663, 84.705906], [274, 436, 97.297287, 1107.690944, 46.006405, 80.898924]]
+D:/MICAPSData/ECMWF_HR/MX2T3/999
+16122308
+D:\CodingWorkspace\2T_Forecast_Local_Site_Extraction/ElementsForecast/2TMax3h/EC_HR
+Time used: 16.334316s, 16334.315889ms
+*****************
+start is:2016-12-23 16:27:01
+[[275, 433, 84.705935, 39.452065, 2879.991245, 71.99999], [274, 434, 179.999863, 77.837807, 221.538663, 84.705906], [274, 436, 97.297287, 1107.690944, 46.006405, 80.898924]]
+D:/MICAPSData/ECMWF_HR/MN2T3/999
+16122308
+D:\CodingWorkspace\2T_Forecast_Local_Site_Extraction/ElementsForecast/2TMin3h/EC_HR
+Time used: 16.063174s, 16063.174086ms
+*****************
+start is:2016-12-23 16:27:18
+16122308
+['D:\\CodingWorkspace\\2T_Forecast_Local_Site_Extraction/ElementsForecast/2T/EC_HR/2016122308.txt', 'D:\\CodingWorkspace\\2T_Forecast_Local_Site_Extraction/ElementsForecast/2T/T639_HR/2016122308.txt', 'D:\\CodingWorkspace\\2T_Forecast_Local_Site_Extraction/ElementsForecast/2T/GERMAN_HR/2016122308.txt', 'D:\\CodingWorkspace\\2T_Forecast_Local_Site_Extraction/ElementsForecast/2TMax3h/EC_HR/2016122308.txt', 'D:\\CodingWorkspace\\2T_Forecast_Local_Site_Extraction/ElementsForecast/2TMin3h/EC_HR/2016122308.txt']
+Time used: 1.430117s, 1430.116675ms
+*****************
